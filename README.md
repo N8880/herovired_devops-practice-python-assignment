@@ -1,5 +1,6 @@
 # DevOps Assignment — Full Solutions (Q1–Q4)
 
+https://github.com/N8880/herovired_devops-practice-python-assignment/tree/main
 This repository contains Python solutions to all four DevOps assignment
 questions: a password strength checker, a CPU health monitor, a
 configuration file parser with a JSON "database" and REST API, and a
